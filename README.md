@@ -1,4 +1,4 @@
-Pizza Sales Analysis Using SQL
+**Pizza Sales Analysis Using SQL**
 Project Overview
 
 This project focuses on analyzing pizza sales data using SQL to extract meaningful business insights and support data-driven decision-making. The analysis covers sales performance, customer ordering behavior, revenue trends, product performance, and category-wise contributions.
